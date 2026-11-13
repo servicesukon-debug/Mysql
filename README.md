@@ -1,4 +1,4 @@
-# Petter Junior Hospital Database Assessment
+# Peterjunior Hospital Database Assessment
 
 **Module:** CPU4:103 – Introduction to Database
 
